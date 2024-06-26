@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "What is your favorite leather jacket color",
+    "category": "fashion",
+    "author": "Jessica",
+    "created_at": "21 July, 2023",
+    "priority": 1,
+    "views": 2344,
+    "img": "https://cdn.shopify.com/s/files/1/2501/3150/files/White.jpg?v=1634550840",
+    "content": "<div class='pmain'> <h3> <strong >WHY CHOOSE A COLORED LEATHER JACKET?</strong> </h3> <p> When choosing a leather jacket, the first option that comes to mind is black or brown. Although these colors are quite popular, you cannot wear black or brown leather jackets all your life. So why not take advantage of the variety of colored leather jackets and spruce up your website this winter with some stylish-looking colored leather jackets. </p> <img src='https://cdn.shopify.com/s/files/1/2501/3150/files/White.jpg?v=1634550840' alt='' class='imgf' /> </h3> </div>"
+  },
+  {
+    "id": "2",
+    "title": "We have been talking about one of the pioneers of male fashion",
+    "category": "fashion",
+    "author": "Jessica",
+    "created_at": "21 Jan, 2024",
+    "priority": 2,
+    "views": 2344,
+    "img": "https://media.gq-magazine.co.uk/photos/5f11c9505c7c349fdae82d51/16:9/w_1920,c_limit/20200717-roundup-trends-13.jpg",
+    "content": "<div class='pmain'> <h3> <strong >New utility</strong> </h3> <p> The utility trend has been doing the rounds for several seasons now, with the safari jacket obsession reaching fever pitch at the Spring/Summer 2020 shows. Now, for Spring/Summer 2021, the look has been updated with more of an all-round “high-function” vibe. From the military-man-meets-twitcher-in-town field jackets at Gucci and Zegna (cut from canvas at the former and leather at the latter) to the all-over safari looks at Balmain and that insanely luxurious crocodile field jacket at Dior, this summer it’s all about looking like you’re coming out of the apocalypse fighting (which you kind of will be).  </p> <img src='https://media.gq-magazine.co.uk/photos/5f11c9505c7c349fdae82d51/16:9/w_1920,c_limit/20200717-roundup-trends-13.jpg' alt='' class='imgf' /> </div>"
+  },
+  {
+    "id": 3,
+    "title": "Gorgeous collection for stylish ladies",
+    "category": "fashion",
+    "author": "Jessica",
+    "created_at": "21 Jan, 2024",
+    "priority": 3,
+    "views": 2344,
+    "img": "https://images.squarespace-cdn.com/content/v1/5ea7272f579ea303de60fd5a/01f27304-bd0b-46cf-8831-0b9bec59d327/23.png?format=2500w",
+    "content": "<div class='pmain'> <h3> <strong >Gorgeous collection for stylish ladies</strong> </h3> <p> Among those the Times crowned “best dressed” were Kamala Harris’ step-daughter, Ella Emhoff, New York mayor Eric Adams, drag-performer Willow Pill, dominatrix-clothes Julia Fox, and disgraced Vogue editor Gabriella Karefa-Johnson. Supreme Court Justice Ketanji Brown-Jackson, Lizzo, and satanist rapper Lil Nas X were also included. Lest we forget the most egregious nominee, Pennsylvania senator-elect John Fetterman also made the ranks. This week, he officiated a wedding… in a Carhartt sweatshirt. </p> <img src='https://images.squarespace-cdn.com/content/v1/5ea7272f579ea303de60fd5a/01f27304-bd0b-46cf-8831-0b9bec59d327/23.png?format=2500w' alt='' class='imgf' /> </div>"
+  },
+  {
+    "id": 4,
+    "title": "Put on a hat for a better look",
+    "category": "fashion",
+    "author": "Jessica",
+    "created_at": "21 Jan, 2024",
+    "priority": 4,
+    "views": 2344,
+    "img": "https://m.media-amazon.com/images/I/612DqO2TVnL._AC_SX679_.jpg",
+    "content": "<div class='pmain'> <h3> <strong >Mens' Roomwear at a great price</strong> </h3> <p> A rich lineup of loungewear, pajamas, and wearable blankets to make your room time more comfortable </p> <img src='https://m.media-amazon.com/images/I/612DqO2TVnL._AC_SX679_.jpg' alt='' class='imgf' /> </div>"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "How To Vlog | How To Be A Vlogger!",
+    "category": "videos",
+    "author": "ASHLEY NICHOLE",
+    "created_at": "21 July, 2023",
+    "priority": 1,
+    "views": 2344,
+    "thumbnail": "https://i.ytimg.com/vi_webp/0aWvkw8Wqps/maxresdefault.webp",
+    "url": "https://www.youtube.com/embed/0aWvkw8Wqps",
+    "content": ""
+  },
+  {
+    "id": "2",
+    "title": "DIY Room Decor | Chic & Easy!",
+    "category": "videos",
+    "author": "ASHLEY NICHOLE",
+    "created_at": "21 Jan, 2024",
+    "priority": 2,
+    "views": 2344,
+    "thumbnail": "https://i.ytimg.com/vi_webp/G6vKkHCt6dU/maxresdefault.webp",
+    "url": "https://www.youtube.com/embed/G6vKkHCt6dU",
+    "content": ""
+  },
+  {
+    "id": 3,
+    "title": "Huge Summer Try On Haul | Urban Outfitters, Asos, Target",
+    "category": "videos",
+    "author": "ASHLEY NICHOLE",
+    "created_at": "21 Jan, 2024",
+    "priority": 3,
+    "views": 2344,
+    "thumbnail": "https://i.ytimg.com/vi_webp/VgSLgKJuIbk/maxresdefault.webp",
+    "url": "https://www.youtube.com/embed/VgSLgKJuIbk",
+    "content": ""
+  },
+  {
+    "id": 4,
+    "title": "What's In My Carry On | Travel Tips + Essentials!",
+    "category": "videos",
+    "author": "ASHLEY NICHOLE",
+    "created_at": "21 Jan, 2024",
+    "priority": 4,
+    "views": 2344,
+    "thumbnail": "https://i.ytimg.com/vi_webp/wdklWLsXOXs/maxresdefault.webp",
+    "url": "https://www.youtube.com/embed/wdklWLsXOXs",
+    "content": ""
+  }
+]
