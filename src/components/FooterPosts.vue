@@ -215,6 +215,7 @@
 <script>
 import tech from "../assets/sample/tech.json"; //TODO DELETE
 import health from "../assets/sample/health.json"; //TODO DELETE
+import subscribe from "./config.js";
 export default {
   name: "FooterPosts",
   components: {},
@@ -230,7 +231,7 @@ export default {
     async subscribePostEmail() {
       this.subscribing = true;
       try {
-        alert("Thank You For Subscribing!");
+        subscribe();
       } catch (err) {
         console.error(err);
       } finally {
